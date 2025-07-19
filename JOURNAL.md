@@ -16,3 +16,5 @@ Basically I'm making a rp2350 based MCU designed fo keyboards, with a intergrate
 ### Charger circuit.
 
 I'm using the [MCP73871](https://www.microchip.com/en-us/product/MCP73871) to both charge the battery and switch between USB nd battery power. It uses a resistor pulldown to the PROG1 pin to set the charge current, which allows for some cool stuff. Using a little bit of math, I was able to calculate resistor values such that if you connect a solder jumper, the charge current changes from 100mA to 400mA. (this was inspired by the nice!nano v2's thing, which does the exact same thing!)
+
+<img width="1573" height="1054" alt="image" src="https://github.com/user-attachments/assets/d897e4da-35e3-43e2-871e-34118503cecb" />
