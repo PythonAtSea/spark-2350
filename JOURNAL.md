@@ -36,3 +36,21 @@ I'm using the W25Q128JVS flash, which is the recommended module from the design 
 Again, I'm just going with the recommended module, but here it's more important than the flash, as the crystal has to be very precise for stuff like USB to work.
 
 <img width="821" height="881" alt="image" src="https://github.com/user-attachments/assets/e55b1239-b6c8-4a53-a100-91d33f860e61" />
+
+## 7/27/25, 4 hours
+
+### Pinout
+
+I made the pinout for the left and right pinheaders, it has the USB data pins broken out so that the user can have their own USB port if they desire.
+
+<img width="576" height="4256" alt="image" src="https://github.com/user-attachments/assets/67eb3e5c-05c3-4da0-8c00-04d9ef1ee7d1" />
+
+### NeoPixel
+
+I put a neopixel on `GPIO0`, with a jumper that can be cut so the pin can be used for other things.
+
+<img width="1358" height="760" alt="image" src="https://github.com/user-attachments/assets/0826a53f-ee6f-497b-93b6-9420d694aa43" />
+
+### Schematic (mostly) done!
+
+The schematic is done, now I need to find footprints and make the actual PCB!!
