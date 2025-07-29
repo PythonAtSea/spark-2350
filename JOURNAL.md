@@ -43,7 +43,7 @@ Again, I'm just going with the recommended module, but here it's more important 
 
 I made the pinout for the left and right pinheaders, it has the USB data pins broken out so that the user can have their own USB port if they desire.
 
-<img width="576" height="4256" alt="image" src="https://github.com/user-attachments/assets/67eb3e5c-05c3-4da0-8c00-04d9ef1ee7d1" />
+<img alt="image" src="https://github.com/user-attachments/assets/67eb3e5c-05c3-4da0-8c00-04d9ef1ee7d1" />
 
 ### NeoPixel
 
