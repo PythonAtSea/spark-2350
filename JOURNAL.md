@@ -54,3 +54,17 @@ I put a neopixel on `GPIO0`, with a jumper that can be cut so the pin can be use
 ### Schematic (mostly) done!
 
 The schematic is done, now I need to find footprints and make the actual PCB!!
+
+## 7/29/25, 4 hours
+
+### Footprints (sigh)
+
+I had to find a bunch of different footprints, including the RP2350, the inductor, and the crystal. I also had to make a castellated hole footprint, which worked quite well. 
+
+<img width="1790" height="953" alt="image" src="https://github.com/user-attachments/assets/6110abac-9215-4801-af4d-8fc4d6e1d8e1" />
+
+### General layout
+
+The two castellated headers are positioned so they have 25mm between them. The antenna of the RM2 hangs of the bottom of the PCB so that there's no copper in the RF keepout.
+
+<img width="556" height="1098" alt="image" src="https://github.com/user-attachments/assets/ebe636ee-f3ce-488f-9e06-cabe02c56cec" />
