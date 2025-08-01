@@ -1,4 +1,4 @@
-25674144621134413
+25677652275409257
 691137710003
 CONN3_WR-TBL-1377_WRE
 
@@ -103256,6 +103256,20 @@ Varistor VF
 0
 2
 2
+castellated
+27left
+Through hole straight pin header, 1x28, 2.54mm pitch, single row
+Through hole pin header THT 1x28 2.54mm single row
+0
+84
+28
+castellated
+27right
+Through hole straight pin header, 1x28, 2.54mm pitch, single row
+Through hole pin header THT 1x28 2.54mm single row
+0
+84
+28
 footprints
 ABM8-272-T3_ABR
 
