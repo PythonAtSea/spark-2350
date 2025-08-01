@@ -14,6 +14,8 @@ I saw the release of the RM2 and I immediatly knew I wanted to make something wi
 
 <img width="1728" height="1120" alt="image" src="https://github.com/user-attachments/assets/04b2c90f-7f0b-44ac-ab3c-d335c2440d61" />
 
+<img width="1584" height="1264" alt="image" src="https://github.com/user-attachments/assets/89e22a1e-0f67-462a-ba4d-60b56826ad97" />
+
 <img width="875" height="1177" alt="image" src="https://github.com/user-attachments/assets/c23c6e56-509e-477a-a512-f9ae308a4448" />
 
 made with <3 and insanity.
