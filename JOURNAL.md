@@ -5,7 +5,7 @@ description: "nice!nano but RP2350"
 created_at: "2024-07-18"
 ---
 
-# spark!2350
+# spark!2350, total hours: ***24***
 
 ## 7/18/25, 3 hours
 
