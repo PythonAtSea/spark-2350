@@ -17,3 +17,13 @@ I saw the release of the RM2 and I immediatly knew I wanted to make something wi
 <img width="875" height="1177" alt="image" src="https://github.com/user-attachments/assets/c23c6e56-509e-477a-a512-f9ae308a4448" />
 
 made with <3 and insanity.
+
+## BOM
+
+| Name | Link | Price |
+|---|---|---|
+| RPI RM2 | https://shop.pimoroni.com/products/raspberry-pi-radio-module | $4 |
+| Pimoroni shpping | n/a | $14 |
+| JLC PCBA | N/A | $78.28 |
+| JLC shipping | N/A | $38.52 |
+| Total | N/A | $134.80 |
