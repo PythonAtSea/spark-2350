@@ -68,3 +68,21 @@ I had to find a bunch of different footprints, including the RP2350, the inducto
 The two castellated headers are positioned so they have 25mm between them. The antenna of the RM2 hangs of the bottom of the PCB so that there's no copper in the RF keepout.
 
 <img width="556" height="1098" alt="image" src="https://github.com/user-attachments/assets/ebe636ee-f3ce-488f-9e06-cabe02c56cec" />
+
+## 7/31/25, 8 hours (oh boy i locked in)
+
+### Parts
+
+I'm trying to use as many basic/preferred extended parts as possible to keep costs low. For example, I'm using relativly large 0805 LEDs for the charging indicators because they're basic parts.
+
+### Routing
+
+Imma be honest, there was a lot of wacky nonsense that took a while to fix but I don't really remeber specifics. Actually I did switch USBC posrt because routing would've been close to immpossible with the other one because of the two d+ and d- pins being on opposite sides. 
+
+<img width="848" height="704" alt="image" src="https://github.com/user-attachments/assets/a4f771e6-26e1-4c2f-8777-f0e03df9167b" />
+
+### Finished!
+
+It's finally done! I'm pretty happy with hor it turned out, if I had to make a v2 I'd probably try to make it smaller.
+
+<img width="658" height="914" alt="image" src="https://github.com/user-attachments/assets/5f0b79fb-1c53-4021-a019-7d78e75d1043" />
